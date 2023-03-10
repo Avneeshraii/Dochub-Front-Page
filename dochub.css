@@ -1,0 +1,155 @@
+.sec {
+    display: flex;
+    height: 450px;
+    width: 100%;
+    background-image: url(./dochub7.jpg);
+    position: static;
+}
+
+.sec2 a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    margin-left: 170px;
+    padding-right: 1px;
+}
+
+.sec3 {
+    font-size: 30px;
+    color: white;
+    line-height: 50px;
+}
+
+.sec4 {
+    color: white;
+    font-size: 25px;
+    line-height: 5px;
+}
+
+img {
+    margin-top: -380px;
+}
+
+.button1 {
+    line-height: 20px;
+    padding: 6px;
+    margin-left: 290px;
+}
+
+.sec5 {
+    display: block;
+    height: 800px;
+    background-color: #36a7f1;
+}
+
+.sec6 {
+    color: white;
+    padding: 50px;
+    padding-left: 50px;
+    font-size: 40px;
+    text-align-last: center;
+}
+
+.sec7 {
+    font-size: 40px;
+    margin-left: -700px;
+}
+
+.sec8 {
+    font-size: 30px;
+    margin-left: -530px;
+    /* line-height: 15px; */
+    text-align: justify;
+}
+
+.sec9 {
+    padding-right: 780px;
+    color: white;
+    text-decoration: none;
+}
+
+.sec10 {
+    padding-left: 600px;
+    margin-top: 40px;
+    /* position: static; */
+}
+
+.sec11 {
+    margin-top: -0.9px;
+    display: flex;
+    background-color: #dc3545;
+    height: 550px;
+}
+
+.sec12 a {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 700;
+    color: white;
+    font-size: 45px;
+    /* text-align: justify; */
+    text-decoration: none;
+}
+
+i {
+    margin-left: 280px;
+    margin: 0px;
+    size: 2;
+    margin-top: 1px;
+}
+
+.sec13 {
+    background-color: #53606b;
+    padding: 10px;
+}
+
+p {
+    font-size: 40px;
+    color: white;
+    text-align-last: center;
+    text-align: center;
+    text-align: left;
+}
+
+.sec15 {
+    font-size: 30px;
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.sec16 {
+    color: white;
+    display: flex;
+    background-color: #6f42c1;
+    height: 400px;
+}
+
+.sec18 {
+    display: flex;
+    justify-content: space-around;
+}
+
+h3 {
+    font-size: 15px;
+}
+
+.sec19 {
+    background-color: #232d62;
+    height: 200px;
+}
+
+.sec20 {
+    display: flex;
+    background-color: black;
+    height: 500px;
+    padding: 15px;
+}
+
+.sec21 {
+    color: white;
+    margin-right: 100px;
+    justify-content: space-around;
+    padding: 5px;
+}
